@@ -16,7 +16,7 @@
 
 - 🎓 **Background:** M.Tech in Aerospace Engineering from **IIT Bombay** and B.E. in Mechatronics from **Tishreen University**.
 - 🛠️ **Expertise:** ROS2, Motion Planning, Computer Vision, and Deep Learning for Autonomous Systems, Multisepctral Images, RL.
-- 🏆 **Achievements:** ICCR Scholar and ranked 2nd out of 222 students in my Mechatronics batch.
+- 🏆 **Achievements:** ICCR Scholar and ranked 1st out of 222 students in my Mechatronics batch.
 
 ## 🧪 Research & Projects.
 * **Oil Leakage Detection:** Developed a deep learning system using ResNet-50 and multispectral imaging for drone-based oil spill classification.
