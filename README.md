@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/omarkashmar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href=omar.b.kashmar.iitb@gmail.com">
+  <a href="mailto:omar.b.kashmar.iitb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -14,27 +14,25 @@
 
 ## 🚀 About Me
 
+- 🎓 **Background:** M.Tech in Aerospace Engineering from **IIT Bombay** and B.E. in Mechatronics from **Tishreen University**.
+- 🛠️ **Expertise:** ROS2, Motion Planning, Computer Vision, and Deep Learning for Autonomous Systems, Multisepctral Images, RL.
+- 🏆 **Achievements:** ICCR Scholar and ranked 2nd out of 222 students in my Mechatronics batch.
 
-- 🔭 **Current Research:** Robotics Navigation reseacher.
-- 🎓 **Background:** M.Tech in Aerospace Engineering from **IIT Bombay** and B.E. in Mechatronics.
-- ]🛠️ **Expertise:** ROS2, Motion Planning, Computer Vision, and Deep Learning for Autonomous Systems.
-- 🏆 **Achievements:** ICCR Scholar and top-ranked graduate (2nd out of 222) in Mechatronics Engineering.
+## 🧪 Research & Projects.
+* **Oil Leakage Detection:** Developed a deep learning system using ResNet-50 and multispectral imaging for drone-based oil spill classification.
+* **Multi-Agent Systems:** Implemented balanced consensus and synchronization using four TurtleBot3 agents.
+* [cite_start]**Hardware-in-the-Loop:** Designed a digital PID controller with a PWM generator on FPGA using Verilog and built a custom CNC machine for PCB drawing.
 
-## 🧪 Research & Projects
-* [cite_start]**Oil Leakage Detection:** Implemented ResNet-50 and multispectral imaging for drone-based oil spill classification.
-* [cite_start]**Multi-Agent Systems:** Implemented balanced consensus and synchronization using TurtleBot3 unicycle models.
-* [cite_start]**Hardware-in-the-Loop:** Designed and built CNC machinesand digital PID controllers on FPGA using Verilog.
-  
-* ## 🛠 Technical Skills
+## 🛠 Technical Skills
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Robotics & Simulation** | [cite_start]ROS2, Gazebo, Nav2, IsaacLab [cite: 6, 22] |
-| **Programming** | [cite_start]Python, C++, Verilog, Matlab [cite: 22, 50] |
-| **AI & Computer Vision** | [cite_start]PyTorch, OpenCV, TensorFlow, Scikit-Learn [cite: 13, 14, 22] |
-| **Control & Design** | [cite_start]PID Control, Fusion 360, SolidWorks, FPGA [cite: 18, 41, 50] |
-| **OS & Tools** | [cite_start]Linux (Ubuntu), Git, LaTeX, CAD [cite: 22] |
+| **Robotics & Simulation** | ROS2, Gazebo, Nav2, IsaacLab |
+| **Programming** | Python, C++, Verilog, Matlab  |
+| **AI & Computer Vision** | PyTorch, OpenCV, TensorFlow, Scikit-Learn  |
+| **Control & Design** | PID Control, Fusion 360, SolidWorks, FPGA  |
+| **OS & Infrastructure** | Linux (Ubuntu), Git, LaTeX, CAD |
 
-## 🛠 Languages and Tools
+## 🧰 Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
