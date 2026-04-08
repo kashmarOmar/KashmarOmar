@@ -21,7 +21,7 @@
 ## 🧪 Research & Projects.
 * **Oil Leakage Detection:** Developed a deep learning system using ResNet-50 and multispectral imaging for drone-based oil spill classification.
 * **Multi-Agent Systems:** Implemented balanced consensus and synchronization using four TurtleBot3 agents.
-* [cite_start]**Hardware-in-the-Loop:** Designed a digital PID controller with a PWM generator on FPGA using Verilog and built a custom CNC machine for PCB drawing.
+* **Hardware-in-the-Loop:** Designed a digital PID controller with a PWM generator on FPGA using Verilog and built a custom CNC machine for PCB drawing.
 
 ## 🛠 Technical Skills
 | Category | Tools & Technologies |
