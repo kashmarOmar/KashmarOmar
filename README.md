@@ -276,14 +276,19 @@ expect ~[0,0,0] with gravity_bias on, or ~[0,0,9.81] with it off
 
 ---
 
-## 🤝 Collaboration
+## 🤝 Collaboration, Consulting & Mentorship
 
-I am interested in collaborating on research and open-source projects related to:
+I am actively open to **collaborations, research partnerships, paid contract work, and technical coaching** in advanced robotics and autonomy. If you are building autonomous systems, writing research papers, or leveling up your technical stack, let's connect.
 
-**Robotics · Reinforcement Learning · Autonomous Navigation · Computer Vision · Multispectral Perception · Sensor Fusion · Human-Robot Interaction · Sim-to-Real Learning**
+### 🚀 Core Specializations
+* **Reinforcement Learning (RL):** Local motion planning, sim-to-real transfer, end-to-end policy learning, and reward shaping.
+* **Autonomous Navigation & SLAM:** Nav2 stack integration, sensor fusion, LiDAR perception, and real-time obstacle avoidance.
+* **Simulation & Robotics Middleware:** ROS 2, Gazebo, NVIDIA Isaac Sim/Gym, URDF/USD asset alignment, and hardware testing.
 
-If you are working on related research or would like to collaborate, feel free to reach out.
-
+### 💼 How We Can Work Together
+1. **Research & Open-Source Collaboration:** Co-authoring papers, joint algorithmic R&D, or contributing to advanced robotics projects.
+2. **Paid Consulting & Freelance:** Custom ROS 2 architecture development, RL pipeline deployment (Isaaclab/sim), or simulation setup.
+3. **Coaching & Technical Supervision:** 1-on-1 mentorship for developers, debugging complex simulation
 ---
 
 ## 📫 Contact
