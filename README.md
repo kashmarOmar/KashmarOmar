@@ -100,18 +100,6 @@ My research focuses on developing intelligent and autonomous robotic systems by 
 
 ---
 
-## 🤝 Collaboration, Consulting & Mentorship
-
-I am actively open to **collaborations, research partnerships, paid contract work, and technical coaching** in advanced robotics and autonomy. 
-
-* **Research & Open-Source Collaboration:** Co-authoring papers (ICRA/IROS level), joint algorithmic R&D, or contributing to advanced robotics toolkits.
-* **Paid Consulting & Freelance:** Custom ROS 2 architecture development, RL pipeline deployment, and simulation-to-real optimization.
-* **Coaching & Technical Supervision:** 1-on-1 mentorship for developers, debugging complex simulation/ROS pipelines, and guiding academic research.
-
-*If you have a project, contract opportunity, or mentorship inquiry, feel free to reach out via [Email](mailto:omar.b.kashmar@gmail.com) or [LinkedIn](https://linkedin.com/in/omarkashmar).*
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -122,6 +110,7 @@ I am actively open to **collaborations, research partnerships, paid contract wor
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashmaromar&hide_border=true" alt="GitHub Streak" />
 </p>
+
 ## 🤝 Collaboration, Consulting & Mentorship
 
 I am actively open to **collaborations, research partnerships, paid contract work, and technical coaching** in advanced robotics and autonomy. If you are building autonomous systems, writing research papers, or leveling up your technical stack, let's connect.
