@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Omar Kashmar</h1>
 
 <h3 align="center">
-PhD Researcher in Robotics | Autonomous Systems | Reinforcement Learning | Computer Vision
+Robotics Engineer & PhD Researcher | Autonomous Systems | ROS 2 | Nav2 | Isaac Lab | Reinforcement Learning
 </h3>
 
 <p align="center">
   <strong>University of Genoa · DIBRIS</strong>
+</p>
+
+<p align="center">
+  I build intelligent robotic systems that perceive, learn, and navigate autonomously.
 </p>
 
 <p align="center">
@@ -15,6 +19,9 @@ PhD Researcher in Robotics | Autonomous Systems | Reinforcement Learning | Compu
   <a href="mailto:omar.b.kashmar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://github.com/kashmaromar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 <p align="center">
@@ -23,118 +30,244 @@ PhD Researcher in Robotics | Autonomous Systems | Reinforcement Learning | Compu
 
 ---
 
-## 👨‍🔬 About Me
+## 👨‍💻 About Me
 
-I am a **PhD Researcher in Robotics at the University of Genoa (UniGe), DIBRIS — Department of Informatics, Bioengineering, Robotics and Systems Engineering**.
+I am a **Robotics Engineer and PhD Researcher at the University of Genoa (UniGe), DIBRIS**, working on intelligent and autonomous robotic systems.
 
-My research focuses on developing intelligent and autonomous robotic systems by combining **reinforcement learning, computer vision, multispectral perception, sensor fusion, and robot navigation**. I am particularly interested in robots that can **perceive, reason, and navigate autonomously in complex and dynamic environments**.
+My work combines **robot navigation, reinforcement learning, computer vision, multispectral perception, and multi-robot systems**. I develop robotic solutions across **simulation and real-world platforms**, with a particular focus on mobile robots and autonomous navigation.
 
-### 🎓 Education & Honors
+My current technical focus includes:
 
-* 🎓 **PhD in Robotics** — University of Genoa, DIBRIS
-* 🎓 **M.Tech in Aerospace Engineering (Dynamics & Control)** — IIT Bombay
-* 🎓 **B.E. in Mechatronics Engineering** — Tishreen University *(Ranked 1st out of 222 students)*
-* 🏆 **ICCR Scholar**
+* 🤖 **ROS 2 & Nav2**
+* 🧠 **Reinforcement Learning**
+* 🚀 **NVIDIA Isaac Lab & Isaac Sim**
+* 🧭 **Autonomous Navigation & LiDAR Perception**
+* 🎮 **Robot Control & Motion Planning**
+* 🐳 **Docker, Linux & GPU-based Simulation**
+* 👁️ **Computer Vision & Multispectral Perception**
 
----
-
-## 🔬 Research Interests
-
-* 🤖 **Autonomous Robotics** & Mobile Navigation
-* 🧠 **Deep Reinforcement Learning** (PPO, SKRL, Sim-to-Real)
-* 🧭 **Human-Aware & Social Navigation**
-* 👁️ **Computer Vision** & Multispectral Image Analysis
-* 🔗 **Multimodal Sensor Fusion** & Terrain Perception
-* 🤝 **Multi-Robot Distributed Systems**
+I enjoy turning research ideas into **working robotic systems**.
 
 ---
 
-## 📚 Publications & Research
+## 🚀 What I Build
 
-### Differential Analysis of Multispectral Images for Terrain Identification
-**Omar Kashmar, Hemendra Arya, Fulvio Mastrogiovanni**  
-*Research on differential analysis of multispectral imagery for environmental perception and terrain classification.*  
-📄 **arXiv:** [arXiv:2607.09319](https://arxiv.org/abs/2607.09319)
+### 🤖 Autonomous Mobile Robots
+
+Designing and integrating autonomous navigation systems for mobile robots using:
+
+`ROS 2` · `Nav2` · `SLAM` · `AMCL` · `LiDAR` · `TF2` · `Gazebo`
+
+### 🧠 Reinforcement Learning for Robotics
+
+Developing RL-based controllers and navigation policies using:
+
+`PPO` · `SKRL` · `Isaac Lab` · `Isaac Sim` · `PyTorch`
+
+Including:
+
+* RL environment design
+* Observation and action spaces
+* Reward shaping
+* Policy training
+* LiDAR-based perception
+* Parallel simulation
+* Policy inference
+* Sim-to-real workflows
+
+### 🖥️ Robotics Simulation
+
+Building and debugging robotic simulation environments using:
+
+`Isaac Sim` · `Isaac Lab` · `Gazebo` · `URDF` · `USD`
+
+with experience in robot models, sensors, actuators, collision geometry, simulation assets, and GPU-accelerated training.
 
 ---
 
-## 🚀 Selected Projects & Systems
+## 🔬 Featured Projects
 
-### 🤖 Reinforcement Learning for Autonomous Navigation
-* **Stack:** `Isaac Lab` · `Isaac Sim` · `SKRL` · `PPO` · `ROS2` · `Nav2` · `Python`
-* Developing and deploying RL-based local controllers for differential-drive robots (like the Clearpath Husky) with LiDAR perception, robust reward shaping, and smooth sim-to-real transitions.
+### 🤖 RL-Based Autonomous Navigation
 
-### 🧍 Human-Aware Robot Navigation
-* Researching social navigation models for robots operating in shared human environments, focusing on human tracking, motion prediction, and proactive collision avoidance.
+**Isaac Lab · Isaac Sim · SKRL · PPO · ROS 2 · Nav2 · LiDAR · Python**
 
-### 🌈 Multispectral Terrain Identification & Oil Leakage Detection
-* **Stack:** `Python` · `PyTorch` · `ResNet-50` · `OpenCV`
-* Built deep-learning vision pipelines utilizing band-ratios and multi-band spectral imagery for terrain classification and drone-based environmental monitoring.
+Developing reinforcement-learning-based local navigation for differential-drive robots such as the **Clearpath Husky**.
 
-### 🤖 Multi-Agent Robotic Systems & Hardware Control
-* Implemented distributed consensus algorithms across multi-robot squads (TurtleBot3), alongside hardware-in-the-loop (HIL) FPGA digital PID controllers and custom CNC motion systems.
+Key work includes:
+
+* PPO training in Isaac Lab
+* LiDAR-based observations
+* Custom reward functions
+* Parallel simulation environments
+* ROS 2 RL inference
+* Nav2 integration
+* Robot velocity control
+* Simulation-to-real deployment
+
+**Focus:** learning-based local navigation for autonomous mobile robots.
+
+---
+
+### 🧭 ROS 2 & Nav2 Autonomous Navigation
+
+**ROS 2 · Nav2 · Gazebo · SLAM · AMCL · LiDAR · TF2**
+
+Building complete autonomous navigation pipelines for mobile robots, including:
+
+* Robot description and URDF integration
+* Sensor configuration
+* TF/TF2 frame management
+* SLAM and localization
+* Nav2 planning and control
+* LiDAR integration
+* Navigation debugging
+* Simulation and hardware testing
+
+---
+
+### 🌈 Multispectral Terrain Identification
+
+**Python · PyTorch · OpenCV · ResNet-50 · Multispectral Imaging**
+
+Researching multispectral perception for **terrain identification and environmental monitoring** using multi-band imagery.
+
+The work includes:
+
+* Spectral preprocessing
+* Band-ratio analysis
+* Image registration
+* Multispectral classification
+* Deep-learning models
+* Drone-based environmental sensing
+
+📄 **Publication:** [Differential Analysis of Multispectral Images for Terrain Identification](https://arxiv.org/abs/2607.09319)
+
+---
+
+### 🤝 Multi-Robot Systems
+
+Research and implementation of distributed robotic systems involving:
+
+* Multi-robot coordination
+* Consensus algorithms
+* TurtleBot3 platforms
+* Distributed control
+* Hardware-in-the-loop testing
+* Motion and control systems
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Category | Technologies |
-| :--- | :--- |
-| 🤖 **Robotics & Simulation** | ROS2, Nav2, Gazebo, Isaac Lab, Isaac Sim, URDF/USD |
-| 🧠 **Reinforcement Learning** | PPO, SKRL, Deep RL, Reward Shaping, Sim-to-Real |
-| 👁️ **Computer Vision & Vision** | OpenCV, PyTorch, TensorFlow, Multispectral Imaging |
-| 💻 **Programming & Tools** | Python, C++, MATLAB, Verilog, Linux, Git, Docker, LaTeX |
-| 🎯 **Control & Platforms** | PID, Motion Planning, Husky, TurtleBot3, Mobile Robots |
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="45" height="45" alt="ROS2"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45" alt="OpenCV"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-</p>
+| Area                          | Technologies                                           |
+| :---------------------------- | :----------------------------------------------------- |
+| 🤖 **Robotics**               | ROS 2, Nav2, SLAM, AMCL, TF2, LiDAR, Mobile Robotics   |
+| 🚀 **Simulation**             | NVIDIA Isaac Lab, Isaac Sim, Gazebo, URDF, USD         |
+| 🧠 **Reinforcement Learning** | PPO, SKRL, Deep RL, Reward Shaping, Sim-to-Real        |
+| 👁️ **Computer Vision**       | OpenCV, PyTorch, TensorFlow, Multispectral Imaging     |
+| 💻 **Programming**            | Python, C++, MATLAB, Verilog                           |
+| 🖥️ **Systems & Tools**       | Linux, Git, Docker, LaTeX                              |
+| 🎯 **Control**                | PID, Motion Planning, Robot Control                    |
+| 🤖 **Platforms**              | Clearpath Husky, TurtleBot3, Differential-Drive Robots |
 
 ---
 
-## 📊 GitHub Statistics
+## 🎓 Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashmaromar&show_icons=true&hide_border=true&rank_icon=github" alt="Omar's GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashmaromar&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+🎓 **PhD in Robotics**
+University of Genoa — DIBRIS
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashmaromar&hide_border=true" alt="GitHub Streak" />
-</p>
+🎓 **M.Tech in Aerospace Engineering — Dynamics & Control**
+IIT Bombay
 
-## 🤝 Collaboration, Consulting & Mentorship
+🎓 **B.E. in Mechatronics Engineering**
+Tishreen University
+*Ranked 1st out of 222 students*
 
-I am actively open to **collaborations, research partnerships, paid contract work, and technical coaching** in advanced robotics and autonomy. If you are building autonomous systems, writing research papers, or leveling up your technical stack, let's connect.
+🏆 **ICCR Scholar**
 
-### 🚀 Core Specializations
-* **Reinforcement Learning (RL):** Local motion planning, sim-to-real transfer, end-to-end policy learning, and reward shaping.
-* **Autonomous Navigation & SLAM:** Nav2 stack integration, sensor fusion, LiDAR perception, and real-time obstacle avoidance.
-* **Simulation & Robotics Middleware:** ROS 2, Gazebo, NVIDIA Isaac Sim/Gym, URDF/USD asset alignment, and hardware testing.
-
-### 💼 How We Can Work Together
-1. **Research & Open-Source Collaboration:** Co-authoring papers, joint algorithmic R&D, or contributing to advanced robotics projects.
-2. **Paid Consulting & Freelance:** Custom ROS 2 architecture development, RL pipeline deployment (Isaaclab/sim), or simulation setup.
-3. **Coaching & Technical Supervision:** 1-on-1 mentorship for developers, debugging complex simulation
 ---
 
-## 📫 Contact
+## 📚 Publications
 
-**Omar Kashmar**
-PhD Researcher in Robotics
-**University of Genoa — DIBRIS**
+### Differential Analysis of Multispectral Images for Terrain Identification
 
-📧 **[omar.b.kashmar@gmail.com](mailto:omar.b.kashmar@gmail.com)**
+**Omar Kashmar · Hemendra Arya · Fulvio Mastrogiovanni**
 
-🔗 **LinkedIn:** [linkedin.com/in/omarkashmar](https://linkedin.com/in/omarkashmar)
+Research on multispectral image analysis for environmental perception and terrain classification.
+
+📄 [Read on arXiv](https://arxiv.org/abs/2607.09319)
+
+---
+
+## 💼 Consulting, Freelance & Collaboration
+
+I am open to **research collaborations, robotics consulting, freelance engineering, and technical mentoring**.
+
+### I can help with:
+
+🔧 **ROS 2 & Nav2**
+
+* Navigation stack integration
+* TF/TF2 debugging
+* LiDAR integration
+* SLAM / localization
+* Robot control
+* Navigation troubleshooting
+
+🧠 **Reinforcement Learning**
+
+* PPO environments
+* RL training pipelines
+* Reward design
+* Policy inference
+* ROS 2 integration
+* Simulation-based training
+
+🚀 **Isaac Lab & Isaac Sim**
+
+* Robot simulation
+* Environment development
+* Sensor configuration
+* URDF/USD integration
+* Simulation debugging
+* GPU-accelerated RL training
+
+🤖 **Mobile Robotics**
+
+* Differential-drive robots
+* Autonomous navigation
+* Local planning
+* Perception and control
+* Simulation-to-real workflows
+
+📩 **Available for selected contract and research projects.**
+
+---
+
+## 🌍 Current Focus
+
+I am currently interested in advancing:
+
+**Autonomous Navigation · Reinforcement Learning · Social Navigation · Multi-Robot Systems · Robot Perception · Sim-to-Real**
+
+My long-term goal is to develop robots that can **understand their environment, make intelligent decisions, and operate safely around people**.
+
+---
+
+## 🤝 Let's Connect
+
+I am always interested in discussing:
+
+**Robotics · Autonomous Systems · Reinforcement Learning · Simulation · Computer Vision · Research · Open Source**
+
+<p align="center">
+  <a href="https://linkedin.com/in/omarkashmar">LinkedIn</a>
+  ·
+  <a href="mailto:omar.b.kashmar@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/kashmaromar">GitHub</a>
+</p>
 
 ---
 
