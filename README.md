@@ -270,6 +270,9 @@ I am always interested in discussing:
 </p>
 
 ---
+<p align="center">
+  <img src="./husky_rl_navigation_demo.gif" width="900" alt="RL-Based Autonomous Navigation">
+</p>
 
 <p align="center">
   <i>Building intelligent robots that can perceive, learn, and navigate autonomously.</i>
