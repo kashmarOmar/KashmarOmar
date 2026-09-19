@@ -174,8 +174,7 @@ Full ROS2 Humble navigation stack for the Mobile Industrial Robots MiR 250 AMR, 
 
 ## Experience
 
-**PhD Researcher — Autonomous Robotics** · University of Genoa · *2023 – Present*
-
+**PhD Researcher — Autonomous Robotics** · University of Genoa · 
 Research at the intersection of deep reinforcement learning and autonomous mobile robot navigation. Develop Sim2Real pipelines using NVIDIA Isaac Lab and validate policies on physical ground robots via ROS2.
 
 - Designed and trained DRL local planners (PPO/SKRL) for UGV navigation in Isaac Lab with 4096+ parallel environments
@@ -187,7 +186,7 @@ Research at the intersection of deep reinforcement learning and autonomous mobil
 
 ---
 
-**Teaching Assistant — AI Planning (PDDL)** · University of Genoa · *2024 – Present*
+**Teaching Assistant — AI Planning (PDDL)** · University of Genoa · 
 
 Deliver lab sessions and tutorials for the graduate AI Planning course. Design exercises in PDDL+, debug student models with ENHSP and other temporal planners, and maintain course toolchain infrastructure.
 
@@ -195,7 +194,7 @@ Deliver lab sessions and tutorials for the graduate AI Planning course. Design e
 
 ---
 
-**M.Tech Researcher — Aerospace Dynamics & Control** · IIT Bombay · *2021 – 2023*
+**M.Tech Researcher — Aerospace Dynamics & Control** · IIT Bombay · *2022 – 2024*
 
 Multispectral imaging pipeline development for airborne remote sensing. Collaborated with Hmeandra Arya on dataset construction and classification architectures for vegetation and soil analysis.
 
