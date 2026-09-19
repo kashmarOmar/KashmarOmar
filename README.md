@@ -15,7 +15,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Kashmar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-kashmar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Kashmar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarkashmar)
 [![Email](https://img.shields.io/badge/Email-omar.b.kashmar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.b.kashmar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kashmarOmar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashmarOmar)
 
