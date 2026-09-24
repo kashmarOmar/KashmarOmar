@@ -278,7 +278,6 @@ research:
   tools:       ["Isaac Lab 5.1", "SKRL", "ROS2 Humble", "NVIDIA Warp"]
 
 open_to:
-  - Remote robotics / RL engineering contracts
   - Research collaborations (navigation, perception, Sim2Real)
   - Workshop design partnerships (robotics, AI, RL curriculum)
   - Co-authorship on relevant robotics / CV papers
